@@ -4,6 +4,7 @@
 This is a simple "To Do List" web application where users can create tasks, assign priority levels, edit tasks, and remove them. The app uses vanilla HTML, CSS, and JavaScript for functionality and responsiveness.
 
 ---
+Live Link - https://codemaverick2.github.io/ToDoList/
 
 ### Features:
 1. **Add Task**: Users can create new tasks with different priority colors.
